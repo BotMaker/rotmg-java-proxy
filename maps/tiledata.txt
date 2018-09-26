@@ -1,0 +1,173 @@
+0:Black Water
+23:Black Water Light
+24:Castle Stone Floor Tile
+25:Castle Stone Floor Tile Dark
+26:Wood Panel Floor
+27:Wood Plank Floor
+46:OceanFloor
+47:SpiderDirt
+48:Spider Dirt Hole
+49:Metal Plates
+50:Metal Plate Stripes
+51:Purple Stone Dark
+197:Jungle Temple Floor
+198:Jungle Temple Floor 2
+199:Stone Slab Floor
+200:Grey Quad Shadows
+201:Dark Water Flowing
+202:Tutorial Floor
+203:Bridge
+204:Tutorial Wood Floor
+205:Gothic Floor Slabs
+206:Gothic Floor Slabs 2
+207:Gothic Floor Slabs 3
+108:Gothic Big Tile
+73:Gothic Rug
+239:Guild Rug Green
+238:Wood Plank Floor Dark
+1:Dark Cobblestone
+2:Light Cobblestone
+35:Bright Grass
+34:Bright Grass 2
+33:Red Quad Lava
+19:Grey Pathway Shadow
+3:Stone Floor Offset
+4:Grey Open
+5:Grey Closed
+6:Grey Quad
+12:Brown Lines
+7:Oryx Castle Rug
+20:Brown Open
+21:Brown Closed
+22:Brown Quad
+28:Dirt
+29:Brown Column
+30:Brown Closed Broken 1
+31:Brown Closed Broken 2
+36:Blue Open
+37:Blue Closed
+38:Blue Quad
+44:Blue Quad2
+45:Blue Column
+52:Red Open
+53:Red Closed
+54:Red Quad
+60:Red Small Checks
+64:Purple Lines
+65:Blue BigSmall Squares
+66:Green Lines
+67:Green BigSmall Squares
+70:Light Grass
+71:Yellow Grass
+72:Grass
+80:Grey Quad2
+81:Grey Squares
+82:Brown Quad2
+83:Brown Squares
+84:Purple Quad2
+85:Purple Squares
+86:Dark Grass
+87:Blue Grass
+88:Square
+96:Rock
+97:Grey Circle
+98:Undergrowth
+99:Green Circle
+100:Scorch
+101:Grey Circle
+102:Checker Board
+103:Grey Checker Board
+104:Brown Checker Board
+105:Red Checker Board
+106:Snowy Rock
+107:Ice
+112:Lava
+114:Water
+115:Shallow Water
+116:White Floor 1
+117:White Floor 2
+118:White Floor 3
+119:White Floor 4
+120:White Floor 5
+121:Grey Pathway
+122:Pool
+123:Deep Pool
+166:GhostGround ExLight
+124:GhostGround Light
+125:GhostGround Mid
+126:GhostGround Dark
+127:Ghostship Rug
+160:White Alpha Square
+161:Purple Alpha Square
+162:Red Alpha Square
+163:Blue Alpha Square
+164:Green Alpha Square
+165:Yellow Alpha Square
+173:Blue Floor
+188:Dark Water
+189:Light Sand
+190:Dark Sand
+191:Quicksand
+192:Wood Square
+195:Broken Wood Square
+196:Stone Square
+208:Road
+212:Grey Bloody
+213:Purple Stone
+214:Cracked Purple Stone
+224:Sandstone Tile
+225:Cracked Sandstone Tile
+226:Sand Covered Tile
+227:Missing Tile
+228:Gold Tile
+229:Dream Tile
+240:Dirt Hole
+253:Composite
+254:Space
+255:Empty
+241:Grey Dirt
+242:Scorch Blend
+243:Oryx Room
+244:Lava Blend
+245:Gold Sand
+246:Gold Sand Dark
+247:Sand Tile
+230:Purple Rug
+231:Castle Cobble
+232:Black
+250:GhostWater
+251:WhirlPool Rt
+252:WhirlPool Lf
+235:WhirlPool Up
+236:WhirlPool Dn
+237:Ghost Water Beach
+215:WhirlPool Start Rt
+216:WhirlPool Start Lf
+217:WhirlPool Start Up
+218:WhirlPool Start Dn
+209:Lab Broken Floor
+210:Lab Grate Floor
+133:Lab Floor Power
+211:Lab Floor
+183:Lab Floor NO WALK
+234:Iron Ground
+233:Light Moss
+248:Light Moss 2
+249:Dirt Cover
+177:Tropical Water Deep
+178:Tropical Water Mid
+179:Tropical Water Surf
+180:Beach Towel 1
+181:Beach Towel 2
+182:Bridge Light
+184:Ice Slide
+185:Snow
+128:Snow Dark
+129:Snow White
+130:Lab Bad Vat No Slow
+131:Lab Good Vat No Slow
+132:Log Track Straight
+168:Liquid Evil
+169:Lab Bad Vat Rug
+167:Lab Good Vat Rug
+170:Lab Floor Power Nowalk

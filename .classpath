@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="rotmgproxy/src"/>
+	<classpathentry kind="src" path="rotmgserver/src"/>
+	<classpathentry kind="src" path="rotmgbase/src"/>
+	<classpathentry kind="src" path="rotmgclient/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Gaz/Desktop/rotmg hacking 2013/rotmg java proxy/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

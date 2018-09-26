@@ -1,0 +1,2 @@
+javap -verbose MyClass
+pause

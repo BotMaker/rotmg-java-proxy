@@ -1,0 +1,14 @@
+@ @Botmaker
+Try this:
+In the GitHub App, create new repo
+Install eGit from the Eclipse Marketplace.
+It will install all of the dependencies.
+Click Import...
+Click Projects from Git.
+Select Local
+Select your local repository.
+Copy all of the ROTMG_Releases sources to the new Repository.
+Do an Initial Commit(Right click-> Team-> Commit) to upload the sources to the server.
+
+
+This is the simplest path that I know of *teehee*

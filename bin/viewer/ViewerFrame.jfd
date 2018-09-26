@@ -1,0 +1,75 @@
+JFDML JFormDesigner: "5.1.0.0.9" Java: "1.6.0_31" encoding: "UTF-8"
+
+new FormModel {
+	contentType: "form/swing"
+	root: new FormRoot {
+		add( new FormWindow( "javax.swing.JFrame", new FormLayoutManager( class org.jdesktop.layout.GroupLayout ) {
+			"$horizontalGroup": "par l {seq t {space :::p, comp scrollPane1::::689:x, space :::p, par t {comp button1:::p::p, comp button2::t:p::p, comp button3::t:p::p, comp button4::t:p::p, comp button5::t:p::p, comp button6::t:p::p}, space :::p}}"
+			"$verticalGroup": "par l {seq l {space :::p, par l {comp scrollPane1::l::542:x, seq l {comp button1:::p::p, space :::p, comp button2:::p::p, space :::p, comp button3:::p::p, space :::p, comp button4:::p::p, space ::380:x, comp button6:::p::p, space :::p, comp button5:::p::p}}, space :::p}}"
+		} ) {
+			name: "this"
+			add( new FormContainer( "javax.swing.JScrollPane", new FormLayoutManager( class javax.swing.JScrollPane ) ) {
+				name: "scrollPane1"
+				"horizontalScrollBarPolicy": 32
+				"verticalScrollBarPolicy": 22
+				add( new FormComponent( "javax.swing.JTable" ) {
+					name: "table1"
+					"model": new com.jformdesigner.model.SwingTableModel( new java.util.Vector {
+						add( new java.util.Vector {
+							add( null )
+							add( null )
+						} )
+						add( new java.util.Vector {
+							add( null )
+							add( null )
+						} )
+					}, new java.util.Vector {
+						add( "Packet" )
+						add( "Content" )
+					}, new java.util.Vector {
+						add( null )
+						add( null )
+					}, new java.util.Vector {
+						add( null )
+						add( null )
+					}, new java.util.Vector {
+						add( null )
+						add( null )
+					} )
+				} )
+			} )
+			add( new FormComponent( "javax.swing.JButton" ) {
+				name: "button1"
+				"text": "Packets"
+			} )
+			add( new FormComponent( "javax.swing.JButton" ) {
+				name: "button2"
+				"text": "C2S"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "c2s", true ) )
+			} )
+			add( new FormComponent( "javax.swing.JButton" ) {
+				name: "button3"
+				"text": "S2C"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "s2c", true ) )
+			} )
+			add( new FormComponent( "javax.swing.JButton" ) {
+				name: "button4"
+				"text": "Reload"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "reload", true ) )
+			} )
+			add( new FormComponent( "javax.swing.JButton" ) {
+				name: "button5"
+				"text": "Spoof"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "spoof", true ) )
+			} )
+			add( new FormComponent( "javax.swing.JButton" ) {
+				name: "button6"
+				"text": "Real"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "real", true ) )
+			} )
+		}, new FormLayoutConstraints( null ) {
+			"location": new java.awt.Point( 0, 0 )
+			"size": new java.awt.Dimension( 800, 600 )
+		} )
+	}
+}
